@@ -1,0 +1,383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Papers relating to a bank of credit upon land security proposed to the Parliament of Scotland / by Dr. Hugh Chamberlen.</title>
+            <author>Chamberlen, Hugh, fl. 1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78535</idno>
+            <idno type="STC">Wing C1877</idno>
+            <idno type="STC">ESTC R42802</idno>
+            <idno type="EEBO-CITATION">38875774</idno>
+            <idno type="OCLC">ocm 38875774</idno>
+            <idno type="VID">152243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152243)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2287:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Papers relating to a bank of credit upon land security proposed to the Parliament of Scotland / by Dr. Hugh Chamberlen.</title>
+                  <author>Chamberlen, Hugh, fl. 1720.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by order of the committee to which the consideration of the proposal is referred."</note>
+                  <note>Imperfect: stained, defaced, and with print show-through.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land banks --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Monica Tsuneishi</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Monica Tsuneishi</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152243:1" rendition="simple:additions"/>
+            <p>PAPERS, Relating to a Bank of Credit, UPON <hi>Land-Security;</hi> PROPOSED TO THE PARLIAMENT OF SCOTLAND.</p>
+            <p>By Dr. HUGH CHAMBERLEN.</p>
+            <p>Publiſhed by Order of the Committee, to which the Conſideration of the <hi>Propoſal</hi> is Referred.</p>
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties.</p>
+            <p>
+               <hi>Anno</hi> 1693.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:152243:2"/>
+            <head>Advertiſement.</head>
+            <p>THe following <hi>Propoſal,</hi> with the <hi>Objections, Anſwers,</hi> and other <hi>Papers</hi> relating thereunto, having been Conſidered by the Committee of <hi>Parliament,</hi> were ordered to be Printed: To the end, that all Per<g ref="char:EOLhyphen"/>ſons, who have any other Objections to make, might give in the ſame to the Clerk of the Committee, againſt their next Meeting: Which is to be upon the <hi>18</hi> day of this in<g ref="char:EOLhyphen"/>ſtant <hi>July 1693.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152243:2"/>
+            <head>PROPOSAL in behalf of Doctor <hi>Hugh Chamberlen,</hi> to the Parliament of <hi>Scotland.</hi>
+            </head>
+            <div type="proposal">
+               <head>To His Grace <hi>William</hi> Duke of <hi>Hamilton,</hi> their Ma<g ref="char:EOLhyphen"/>jeſties High Commiſſioner, and the Honourable Eſtates of Parliament: <hi>The following Conſiderations and Propoſals are humbly preſented by Dr.</hi> Hugh Chamberlen.</head>
+               <p>
+                  <note place="margin">Firſt Con<g ref="char:EOLhyphen"/>ſideration.</note>WHereas it is moſt evident, That a Wiſe and Large Eſtabliſhment, and a continued courſe of con<g ref="char:EOLhyphen"/>ſiderable Trade, is a ſure way whereby any Na<g ref="char:EOLhyphen"/>tion, capable of it, may attain to Honour, Wealth, and Power: becauſe that thereby will ariſe; <hi>Firſt,</hi> A great Increaſe of Money, which anſwereth all things: <hi>Secondly,</hi> An Increaſe of People, which is the Strength of any Kingdom or State, and who do always gather to thoſe places where Money is in abundance. And <hi>Thirdly,</hi> An Increaſe of Shipping, which is the ſtrongeſt Rampart of an Iſland; And by which Merchandize is conveyed to the moſt profitable Mercat. It is therefore the undoubted Intereſt of the People of <hi>Scotland,</hi> eſpecially thoſe who have the greateſt Eſtates, whether of Land or Money, to Imploy themſelves to the Improvement of Trade, as univerſally as is poſſible. And it is humbly conceived, that this propoſition needs no other proof or illuſtration, than what plainly ariſes from the Obſervation of thoſe many and great Advan<g ref="char:EOLhyphen"/>tages derived from Trade, to the Kingdom of <hi>England,</hi> the States of the U<g ref="char:EOLhyphen"/>nited Provinces, and all other Kingdoms and States, that have applyed themſelves to Commerce.</p>
+               <p>
+                  <note place="margin">Second Con<g ref="char:EOLhyphen"/>ſideration.</note>The Kingdom of <hi>Scotland</hi> is as Capable of making Advan<g ref="char:EOLhyphen"/>tages by Trade, as any other Kingdom or State, being ſurroun<g ref="char:EOLhyphen"/>ded with good Sea Ports upon all its Coaſts, and having a ve<g ref="char:EOLhyphen"/>ry great and profitable Subject of Trade, proper to it; The Land affor<g ref="char:EOLhyphen"/>ding Grain, Cattel, Wool, Flax, Coal, Salt, Copper, Iron, Lead, and other Na<g ref="char:EOLhyphen"/>tive Products; beſides the Fiſhing of the Rivers, Loghs, and Seas. This Kingdom hath likewiſe great numbers of People, either not Imployed, or not ſo fully and profitably as might be: And hath alſo ſuch a Proviſion of Shipping as may ſerve to begin a Trade, and may ſoon be increaſed, if a great<g ref="char:EOLhyphen"/>er Trade be ſet up. The truth of this Conſideration will appear, by com<g ref="char:EOLhyphen"/>paring the Particulars therein contained, to thoſe of the United Provinces, where the proper Subject of Trade, comes very far ſhort of that of this Kingdom: Which Provinces from very ſmall beginnings, and under the Diſcouragement of a War with <hi>Spain,</hi> at that time the moſt potent King of <hi>Europe,</hi> have yet raiſed themſelves, within a ſhort period of Years, to that
+<pb n="2" facs="tcp:152243:3"/> immenſe, Wealth, Grandeur, and Power, that now they poſſeſs: and have acquired it chiefly by their Trafficking in thoſe Subjects of Trade, which properly belong to this and other Nations.</p>
+               <p>
+                  <note place="margin">Third Con<g ref="char:EOLhyphen"/>ſideration.</note>The People of this Kingdom, who have had liberal Educa<g ref="char:EOLhyphen"/>tion, are generally in all Countries allowed to be of great Ingenuity and Diligence, and ſo well inclined to Vertue and Frugality; and ſo averſe from Luxury, that where they are Imploy<g ref="char:EOLhyphen"/>ed abroad, they are outdone by none; and the Commons being <hi>docile</hi> and Tractable, and likewayes Robuſt and Vigorous of Body, and ſuffici<g ref="char:EOLhyphen"/>ently Inclined to beſtow their Labour, where there is proſpect of mode<g ref="char:EOLhyphen"/>rat Gain: And being hitherto accuſtomed to ſmall Wages; It may juſt<g ref="char:EOLhyphen"/>ly be concluded, that no People in the World are naturally more fitted or better qualified for ſetting up, managing and proſecuting a great and con<g ref="char:EOLhyphen"/>ſiderable Trade.</p>
+               <p>
+                  <note place="margin">Fourth Con<g ref="char:EOLhyphen"/>ſideration.</note>It is moſt certainly true in Fact, nor can it be unknown to the Intelligent of this Nation, that the greateſt Tradings in the World are carryed on, not ſo much by the ſpecies of Money, which is in Stock and Caſh, as by a great Credit attained to by means, partly of their viſible Subject of Trade, partly of their pains in, and application to Traffick, but moſt of all upon account of the Reputation and Opinion of the great Profits made in the courſe of a proſperous Trade, even where the Native and Proper Subject of Trade keeps no proportion with the Trade carried on: as it is in the <g ref="char:V">Ʋ</g>nited Provinces; Where Credit is the chief Inſtrument of their Commerce, and that Credit raiſed upon a Fund more of Opinion or Reputation than Real. If therefore in this Kingdom, the want of a ſufficient Stock of Money, for the Carrying on a great Trade, can be made up by a Credit grounded upon a more Real and Subſtantial Fund, than the Credit of any other Nation, either at preſent is, or probably can be founded upon, then certainly it may moſt reaſonably follow, that this Kingdom is rather more Capable of carrying on great and National Trades, than moſt other Kingdoms or States in <hi>Europe.</hi>
+               </p>
+               <p>
+                  <note place="margin">Fifth Con<g ref="char:EOLhyphen"/>ſideration.</note> The Titles and Tenures of Eſtates, eſpecially Land Eſtates in this Kingdom, being more known ſure and ſtated, and with greater eaſe and certainty examinable, by reaſon of the Records here in uſe, than in any other Countrey; and an evident clear and firm Security upon Land, being the beſt and moſt ſubſtantial Fund of Credit: This Kingdom is capable in this reſpect, to raiſe a Credit ſuffici<g ref="char:EOLhyphen"/>ent for improving to the uttermoſt the great ſubject of Trade, that now it unprofitably poſſeſſes; and this Credit as far to exceed that of other Nati<g ref="char:EOLhyphen"/>ons, as a real ſolid and permanent Fund exceeds thoſe of Opinion and Re<g ref="char:EOLhyphen"/>putation, for ſuch all thoſe of other Nations will be found to be when du<g ref="char:EOLhyphen"/>ly weighed, with that hereby proponed for this Kingdom.</p>
+               <p>Upon theſe Conſiderations, which may ſo juſtly be preſumed to induce the Right Honourable Eſtates of Parliament, to receive and Examine a Pro<g ref="char:EOLhyphen"/>poſal, that Tenders to this Kingdom the certain and Effectual Means of ſo great Wealth and Honour.</p>
+            </div>
+            <div type="proposal">
+               <pb n="3" facs="tcp:152243:3"/>
+               <head>The ſaid Doctor <hi>Hugh Chamberlen,</hi> Humbly offers to the Wiſdom of this Auguſt Aſſembly, the following Propoſal.</head>
+               <head type="sub">THE PROPOSAL.</head>
+               <p>THat a Statue or Law of this Kingdom may be Enacted, for Nomina<g ref="char:EOLhyphen"/>ting certain Truſtees or Commiſſioners, to be appointed now, and from time to time, by Parliament, and accountable thereunto: which Tru<g ref="char:EOLhyphen"/>ſtees are to have power to receive and examine the Titles and Eſtates of all ſuch as are willing to engage their Lands for the forming ſuch a ſecure cur<g ref="char:EOLhyphen"/>rent Credit. Upon finding any ſuch Eſtate clear in Title, the ſaid Truſtees to take a Conveyance thereof for 150 Years, upon Condition to be void, when 100 Years payment ſhall have been made to them of the Rent a<g ref="char:EOLhyphen"/>greed; and ſuch Rent to be payed, not in Money or Gold, but only in the Bills of Credit iſſued to the Granter by the ſaid Truſtees; and the Heretor or Granter to enjoy the free and undiſturbed Poſſeſſion of ſuch Eſtate for the whole Term, he duely paying ſuch Annualrent. Upon the making over any ſuch Eſtate, the Truſtees thereupon direct their Warrant to the Maſter of a proper Office, therefore to be erected, to Iſſue 100 years value of ſuch Eſtate in Bills of Credit of ſeveral values, the better to accommodat the uſes of Trade: Which Bills of Credit, are to be thus divided, <hi>viz.</hi> 40 Years Value to the Proprietar: 30 Years Value for his uſe, but to be em<g ref="char:EOLhyphen"/>ployed in ſuch publick Trade or Trades, as the ſeveral Proprietars ſhall in a Body agree upon: 10 Years purchaſe to the Government, in eaſe of the People in point of Taxes, and may be appropriated to ſuch uſes where the honour of the Crown, and Intereſt of the Nation, may equally meet: And the reſidue to the uſe of the ſaid Doctor <hi>Chamberlen,</hi> as Maſter of ſuch Of<g ref="char:EOLhyphen"/>fice; who, and his Heirs to be perpetually ſo, in reward of this Service done the Nation. And the Maſter of the Office, is, out of ſuch his part, to pay all the Charge of the Office, which will be very great; and to anſwer all Contingencies of it: and alſo generous and becoming Appointments to thoſe Honourable Gentlemen to be made Truſtees by the Parliament, to ſee Juſtice done to the People, and the Honour, and Security of the Bank pre<g ref="char:EOLhyphen"/>ſerved inviolable. The Heretors, or Proprietars that raiſe this Fond, are to be a Corporation, with perpetual Succeſſion, and all neceſſary Powers, for managing and carrying on ſuch National Trade, or Trades, as they ſhall agree upon. From 120 to 150 Pound <hi>Sterling per annum,</hi> is to be made over for the payment of every 100 Pound <hi>per annum,</hi> to be engaged for this Fund, and ſo in proportion; and this to the end, that all Credit thus to be iſſued, may be ſupported by a greater Value than it ſelf.</p>
+               <p>That theſe Bills be made current in all payments: and as they are payed yearly, for Rent to the Truſtees, they are by them to be deſtroyed: ſo that at the end of 100 years they will be all recalled. Bills of Credit thus founded upon Land, and Strengthened by the Sanction of Law, and made in a form incapable of Forgery, will be found an excellent inſtrument or Medium of Trade, equal in all reſpects to Gold and Silver Money, and Su<g ref="char:EOLhyphen"/>perior
+<pb n="4" facs="tcp:152243:4"/> to them in divers regards. They are more ſure than any Bills, Bonds, or Morgages, or any manner of Credit now known in the World: They have a real ſolid extrinſick and permanent Value, inſeparably adhering to them by Law: Nor can their value be impaired, or their uſe taken away, by any future Parliaments, or by any Revolutions of State, where all mens Properties will not alſo be ſwallowed up. By this means, a conſiderable part of the Rents of the Nation may be applyed to Trade, which otherwiſe could not be done. Thus may all the Poor be profitably imployed: All due Improvements made in Huſbandry, and all needful Arts and Manufactu<g ref="char:EOLhyphen"/>ries; The Shipping and Strength of the Nation will be increaſed by Sea and Land. Publick Taxes will become eaſie to the Subjects, and all who Contribute to this Fond, will be made Richer by it, at their very Entry in<g ref="char:EOLhyphen"/>to it: Beſides what their Share in the future Trade will produce.</p>
+               <p>No perſon is forced to be concerned in it, yet all are permitted that ſhall deſire it; which renders it truly a Free and Common-Good. Although at the end of 100 years, all this Credit will be called in; Yet the Courſe of Trade managed with it, cannot in the mean time but produce Gold, Silver and other valuable Commodities, and that to a far greater Value than the Bills themſelves: And the Trade founded by them, will be perpetual. Theſe Bills not paſſing out of the Kingdom, are an Advantage: For all wiſe Laws reſtrain Money from going out; and forraign Trade ought not to be mannaged with Money, but with the Native Product and Manufactu<g ref="char:EOLhyphen"/>ries of the Kingdom. The Banks of <hi>Ho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>land</hi> and <hi>Venice</hi> are pregnant in<g ref="char:EOLhyphen"/>ſtances of the power of Credit, under wiſe Regulation: And yet the Credit of both thoſe Banks, are far inferior to the Credit hereby proponed. They take the ready Money, and imploy it for the Government, and give their Bills to <hi>Negotiate,</hi> in payment: So that in any exigence of State, if all their Creditors ſhould at once call for their ſeveral Debts, it may reaſonably be doubted if either of theſe Banks ſhould be able to anſwer their Credit: So that Opinion or Reputation, is their great ſupport. But the Bank hereby proponed; Touches no mans ready Money; makes all men concerned in it preſently much Richer than before; layes ſure Foundations of laſting Na<g ref="char:EOLhyphen"/>tional Trades; and becomes every year a ſtronger Security than before: For as the Term of years Leſſens, the Security becomes more ſtrong. Upon the whole. It is humbly conceived, to have all the Force of Demonſtration, that this Kingdome Receiving and Enacting this propoſal, cannot fail of a ſucceſs Superior to either of thoſe Powerful and Opulent States; becauſe of the Advantages before enumerated, that this Kingdome poſſeſſes over them.</p>
+               <q>It is therefore humbly Prayed, by <hi>Oliver Salusbury,</hi> and <hi>Peter Chamberlen,</hi> Gentlemen, Agents on this behalf, of the ſaid Doctor <hi>Chamberlen,</hi> That his Grace the Lord High Commiſſi<g ref="char:EOLhyphen"/>oner, and the Right Honourable, the Eſtates of Parliament, may pleaſe to commit the Conſideration of this Propoſal to be ex<g ref="char:EOLhyphen"/>amined, and Report being made, may determine therein as in their Great Wiſdom they ſhall ſee Cauſe.</q>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="5" facs="tcp:152243:4"/>
+                     <p>THeir Majeſties High Commisſioner and the E<g ref="char:EOLhyphen"/>ſtates of Parliament, having conſidered the a<g ref="char:EOLhyphen"/>bove written Propoſal; They remit it to the Earls of <hi>Linlithgow</hi> and <hi>Lothian,</hi> the Viſcount of <hi>Stair,</hi> and Lord <hi>Polwar<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h,</hi> Sir <hi>John Lockhart</hi> of <hi>Caſtle-hill,</hi> Sir <hi>John Maxwel</hi> of <hi>Pollock, John Swinton</hi> of that Ilk, and <hi>Duncan Forbes</hi> of <hi>Colloden,</hi> Sir <hi>John Hall,</hi> Sir <hi>Archibald Muire,</hi> Sir <hi>William Hamilton,</hi> and Maſter <hi>James Smollet,</hi> together with the Officers of State, or the major part of them, being a <hi>Quorum,</hi> as a ſelect Committee to conſi<g ref="char:EOLhyphen"/>der of the ſaid Propoſal, and to prepare a Report there<g ref="char:EOLhyphen"/>anent, to the next seſsion of this, or any other enſuing Parliament, and to meet at <hi>Edinburgh</hi> the 20th day of <hi>June</hi> inſtant for the firſt Dyet, and to adjourn their Meet<g ref="char:EOLhyphen"/>ings thereafter, to ſuch times and places as they ſhall think convenient.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Edinburgh</hi>
+                           <date>
+                              <hi>June <hi>14. 1693.</hi>
+                              </hi>
+                           </date>
+                        </dateline>
+                        <signed>
+                           <hi>TWEEDDALE <hi>Cancel.</hi> I. P. D. <hi>Parl.</hi>
+                           </hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="arguments">
+               <head>Arguments to accept Dr. <hi>Chamberlen's</hi> Propoſal.</head>
+               <p>THe Propoſal offers 70 years purchaſe (that is, 40 down, and 30 in a joint Stock of Trade) for 100 years Annualrent: And this Bar<g ref="char:EOLhyphen"/>gain is to be had in poſſeſſion, before any Rent payed. In the ſame ſpecie, that is payed for the Purchaſe, in the very ſame, and in no other, the An<g ref="char:EOLhyphen"/>nualrent is to be paid; ſo that here is nothing given, but what will be re<g ref="char:EOLhyphen"/>ceived back. And if any man is compelled by Law, to receive a debt or payment in this ſpecie, another is by the ſame Law, bound to receive it from him again: and ſo from hand to hand, till it ends at laſt in the Annu<g ref="char:EOLhyphen"/>alrent which the Land is obliged to pay; and there it ceaſeth. Would it do <hi>Scotland</hi> a ſervice, to bring ſome Millions of Gold and Silver into it? This is equivalent. For ſince Credit, upon a leſs ſecure Fund, performs in other Countries, all the uſes and offices of Gold and Silver; what ſhould hinder the ſame Effects here, upon a better Fund? But however, if an Act of Parliament paſs <hi>de bene eſſe;</hi> the Nation runs no Riſque, if it do not take: If it does take, there is a Mine of Treaſure opened to them, <hi>gratis.</hi> The paſſing the Act, compells no man to come in, and engage his Land. The Propoſer, if deſired, will be obliged to cauſe bring in 100000 <hi>lib.</hi> ſterling or more, and purchaſe Lands in <hi>Scotland,</hi> and give 30 years purchaſe for them, the Act being paſſed; and then engage the Lands ſo purchaſed, in the deſign. The Propoſal is not ſo very obſcure, or myſterious, to ſuch as
+<pb n="6" facs="tcp:152243:5"/> will pleaſe to take the pains to read it two or three times over, deliberatly and attentively, and will then hearken to what Anſwers can be given to a<g ref="char:EOLhyphen"/>ny ſeeming difficulty. The manner of putting it into practice, and actual adminiſtration of it, will indeed require an uncommon Skill and Under<g ref="char:EOLhyphen"/>ſtanding: and this part, Dr. <hi>Chamberlen,</hi> whoſe invention and contrivance this deſign is, and who has been 30 years maturing it, can beſt diſcharge, ſo as to reduce all to ſuch an exact method, as ſhall make the whole clear and facile, and prevent all confuſion and diſorder: which, ſhould they happen, might diſgrace and ruine the Undertaking: but to ſettle this point, and con<g ref="char:EOLhyphen"/>cert the matter of Trade; for the greateſt benefit of this Kingdom; the Dr. in caſe the Act paſs, will come to <hi>Scotland.</hi>
+               </p>
+            </div>
+            <div type="comparison">
+               <head>A Compariſon of the circulation of Gold, &amp; of Credit.</head>
+               <p>A. ſettles his land for 100 years, to pay 100 <hi>lib.</hi> of Annualrent, in Bills of Credit to the Office; he receiving in the ſame Credit, a Sum or Conſideration for the purch<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe of it.</p>
+               <p>
+                  <hi>B.</hi> makes a like ſettlement of Lands to C. to pay 100 <hi>lib.</hi> in Gold, for the ſame Term of years; having received his purchaſe money in Gold.</p>
+               <p>
+                  <hi>A.</hi> pays a debt of 100 <hi>lib.</hi> in this Credit, to his Coach-make: the Coach ma<g ref="char:EOLhyphen"/>ker pays it to the Currier for Leather: the Currier pays the ſame to a Tanner for Hides: the Tanner pays the ſame to a Butcher for Skins and raw Hides: the Butcher pays it to a Graſier for Cattle: the Graſier to a Farmer for Corn and Graſs: the Farmer pays it to <hi>A.</hi> his Landlord: and <hi>A.</hi> pays it to the Office for his Annualrent. Now here is all their Occaſions anſwered; and none the worſe, or the poorer by it; but the contrary: the Office re<g ref="char:EOLhyphen"/>ceiving back, what it delivered out.</p>
+               <p>Now take the payments as running in Gold.</p>
+               <p>B. pays a debt in Gold of 100 <hi>lib.</hi> to his Coach-maker: the Coach-maker pays the ſame to a Currier for Leather: the Currier pays it to a Tanner for Hides: the Tanner to a Butcher for Skins and raw Hides: the Butcher to a Graſier for Cattle: the Graſier pays it to a Farmer for Corn and Graſs: the Farmer pays it to B. his Landlord for Rent: and the Landlord pays the ſame Gold to C. for his Annualrent. Now by this Compariſon it is plain, that in the circulation and courſe of Dealing, from the Office to the Landlord, and back to the Office again, the turn is as well ſerved as in the Inſtance of Gold. And the Office is no poorer in receiving back the Credit; nor C. no richer in receiving back his Gold; than both were, at the iſſuing of their ſeveral Sums, in Credit and Gold.</p>
+            </div>
+            <div type="objections">
+               <head>Three OBJECTIONS againſt the <hi>Propoſal,</hi> gi<g ref="char:EOLhyphen"/>ven in to the Committee, the <hi>30</hi> of <hi>June 1693.</hi>
+               </head>
+               <div n="1" type="objection">
+                  <head>OBJECTION I.</head>
+                  <p>IT appears by Doctor <hi>Chamberlen</hi>'s Propoſal, that every one who ſhall ſettle One hundred Pound <hi>per annum</hi> for a Bank of Trade, ſhall upon the Settlement made, receive payment from the ſaid Bank of the Sum
+<pb n="7" facs="tcp:152243:5"/> of four thouſand Pound in Tallies, current in all Payments, by vertue of an Act of Parliament: and ſhall have other three thouſand pound of Tallies, employ<g ref="char:EOLhyphen"/>ed in Trade and Commerce to his uſe and behoof.</p>
+                  <p>Suppoſe the Perſon Receiver of the four thouſand Pound being in Debt, ſhall pay his Debt with the ſaid four thouſand Pound, or a great part of it; ſo that his Creditor ſhall be forced to receive his Sum in his ſaid Tallies.</p>
+                  <p>It is Queſtioned, What uſe the ſaid Creditor, who lived upon the In<g ref="char:EOLhyphen"/>tereſt of his Money, can make of his Stock; ſeing in all probability there would be no Borrowers upon Annualrent: For it is to be ſuppoſed, that many landed Men will not need to Borrow, but be in a condition to pay the Debt they owe.</p>
+                  <p>There will be ſuch a conſiderable Stock made up of the ſeveral three thou<g ref="char:EOLhyphen"/>ſand Pounds employed in Trade, that ſuch Creditors not being able, as it ſeems, to be of the Corporation propoſed, with the Landed-men; cannot propoſe to themſelves to employ their Stock in Trading with any reaſonable Proſpect of Advantage.</p>
+               </div>
+               <div n="2" type="objection">
+                  <head>OBJECTION II.</head>
+                  <p>SUppoſe, That all the Natural and Artificial Product of <hi>Scotland,</hi> yearly at preſent, is worth a Million <hi>Sterling;</hi> and that there are two Milli<g ref="char:EOLhyphen"/>ons of Tallies Coyned, and Secured on a real Fund, as is propoſed.</p>
+                  <p>Then, one Million being beſtowed upon the years Product, what ſhall the Havers of the other Million do with their Tallies? For on the Suppoſition, there is neither Natural nor Artificial Product, but what's already bought by the other Million, the Tallies are only paſſable Money in <hi>Scotland;</hi> and therefore the other Million muſt ly idle and, the Perſon who received them from his Debitor muſt, let them ly Idle and, Starve.</p>
+                  <p>If you will ſay, that Trade is infinite, and the ſubject of Trade is inex<g ref="char:EOLhyphen"/>hauſtible, which is not true: yet as to any Nation, and particularly as to <hi>Scotland,</hi> the ſubject is certainly within the value of one Million: And no other Nation will give Goods for our Tallies: ſo that of neceſſity, all that is Coin'd above the yearly Product of natural and artificial Goods, muſt be uſeleſs, untill the Product increaſes.</p>
+               </div>
+               <div n="3" type="objection">
+                  <head>OBJECTION III.</head>
+                  <p>IT appears by this Propoſal of Doctor <hi>Chamberlen's,</hi> that as much Money will be raiſed as may pay all the Debt of the Nation; and ſo there will be no uſe nor place for Money upon Annualrent. In which Caſe, <hi>Quaeri<g ref="char:EOLhyphen"/>tur,</hi> what ſhall become of the Widows and Orphans, and other Perſons in the Kingdom, who are not capable of Trade? ſeing there is neither acceſs to buy Land, nor lend out the Money upon Intereſt.</p>
+               </div>
+            </div>
+            <div type="answers">
+               <head>
+                  <hi>ABSTRACT</hi> of, and <hi>ANSWER</hi> to, the firſt and third <hi>OBJECTIONS.</hi>
+               </head>
+               <p>FOr theſe two differ not in ſubſtance. The ſcope of them is, That all the Debts upon Land being paid by this Propoſal; and all the Subject of Trade wholly taken up by it: What ſhall become of thoſe who ſubſiſt
+<pb n="8" facs="tcp:152243:6"/> only upon the Intereſt of their Money? For there will be no Land to <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rchaſe, at leaſt for ſome years; nor none to borrow at Intereſt: And <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rade, either is not underſtood by ſuch Perſons; or there is not room to <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ceive them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>1</label> Would this <hi>Objection</hi> be raiſed, if theſe Debts were paid, and ſuch a Trade driven by Money of Gold and Silver? If it it were then raiſed, it muſt needs be thought groundleſs: <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nleſs it be a Crime to pay Debts; and drive a National Trade, without <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e excluſion of any privat Perſon. If it would then be thought ground<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſs; there is equal reaſon it ſhould be thought ſo in this caſe. For this Cre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it is equal in all reſpects, and Superior in many, to coyned Gold and Sil<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, which is after made appear.</p>
+               <p n="2">2. If this <hi>Propoſal</hi> be a publick and National Good, the privat Intereſt of ſome few particular Perſons, ought to give way to it: which has ever been the Rule of all wiſe Governments.</p>
+               <p n="3">3. The payment of all Debts upon Land will be greatly to the Honour and advantage of the Nation: and will preſerve the Eſtates and Honours of the antient Nobility and Gentry: and will alſo of natural conſequence drive into Trade, which is the Nations Strength and Riches, the greater part of that Money that now preys upon the vitals and nobleſt parts of the Kingdom by devouring Uſury, which is the known deſtruction of un<g ref="char:EOLhyphen"/>trading Perſons.</p>
+               <p n="4">4. It is denyed, that the whole Subject of Trade in this Kingdom, can be exhauſted by the intended Stock, ſo as that any can want Imployment for their Money: For, no Nation ever was known to be too Rich: And the Uſes and Occaſions of Money do always naturally multiply faſter than Money it ſelf. <hi>Scotland</hi> has many profitable and improveable Subjects of Trade; And had ſhe Money to give Life to Ingenuity and Induſtrie, the Productions of Nature, and improvement of Art, might in few years be many hundred times improved.</p>
+               <p>The Sea alone is an inexhauſtible Treaſure, and can imploy many Milli<g ref="char:EOLhyphen"/>ons. <hi>Holland,</hi> who has no Subject of Trade; nor can have any; Yet by vaſt Wealth in Coyn and Credit, drives the greateſt Trade of the World, and grows Rich by the product of other Counteries; And by making her ſelf the general Store-houſe of <hi>Europe,</hi> and almoſt of the World; and the Carrier alſo of the Goods of all Nations to and fro, wherever ſhe is per<g ref="char:EOLhyphen"/>mitted.</p>
+               <p>In what place ſoever there is great plenty of a common Meaſure or Me<g ref="char:EOLhyphen"/>dium of Trade, which we uſually terme Money, it is impoſſible it ſhould ly Dead, Uſeleſs, or ſtagnate: For like Streams of Water, where ever they breake out, they will by natural and political Reaſon force their own way into the wide Sea of Trade.</p>
+               <p>But to deſcend nearer to the moneyed Men, Women, or Children. There will always more or leſs, be Money taken up at Intereſt. The diffe<g ref="char:EOLhyphen"/>rence this Propoſal will make, will be thus, That now Money is for the moſt part let to Intereſt, to the ruine of thoſe that pay it; being a dead weight upon their Eſtates. But in our Caſe, the induſtrious Merchant only will take up Money at Uſe; who will at the ſame time enrich himſelf, and ſerve the Creditor; by which alſo the Nation it ſelf is improved.</p>
+               <p n="9">9. But further, two thirds of each Landed-mans Stock in Trade, may be
+<pb n="9" facs="tcp:152243:6"/> made alienable at pleaſure; In Order to the taking in of Moneyed-men, and thereby diffuſing the Benefits of this Propoſal to the greater number of Perſons, to the end it may become the more National.</p>
+               <p n="7">7. Alſo, it may be enacted, that every Creditor upon Land, ſhall have Right to the Value of half his Debt upon the Land it ſelf, as if he were Pro<g ref="char:EOLhyphen"/>prietar for ſo much; but the other half he to accept in Credit; with which he may alſo purchaſs Shares in the Trade of ſuch as are deſirous to ſell. And thus may ſuch perſons be profitably concerned in Trade, tho unskil<g ref="char:EOLhyphen"/>led therein: and without any juſt fear, as I have ſhewed before, of want of Room to receive them.</p>
+               <p n="8">8. But if there ſhould be any found ſo idle or unhappy, after the Springs of Trade thus ſtrongly fixed, as to know no better way to imploy their Money, thus taken in Credit, than at Intereſt: Let them put it into the Bank upon theſe Terms, <hi>viz.</hi> To have 4 <hi>per Cent</hi> Intereſt: And if they call out their Money, which not to be till after 2 years certain, and then giving ſix Months notice; they ſhall accept it in this Credit: But if the Bank put it upon them, then to be payed in Gold and Silver; and the Bank to give alſo ſix Months notice to the Creditors.</p>
+               <div n="2" type="answer">
+                  <head>Abſtract of, and Anſwer to, the ſecond Objection.</head>
+                  <p>THe Objection ſuppoſes that all the Natural and Artificial Product of <hi>Scotland,</hi> exceeds not yearly one Million. And therefore, if two Millions be coyned; one muſt be idle, and the Poſſeſſor of it muſt ſtarve. For the Money is only paſſable in <hi>Scotland:</hi> And all Goods there, are bought up with the firſt Million. And ſince no other Nation will give Goods for the Tallies, there will be no uſe for them.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Answer. </seg>
+                     </label> Granting that all the preſent Product of <hi>Scotland,</hi> Natural and Artificial, does not exceed a Million: Yet I deny the Inference, that if one other Million, or ten other Millions, be coyned, they muſt be idle, and the Poſſeſſor ſtarve. Let <hi>Scotland</hi> be deprived of all her preſent Money, and her preſent Product will inſtantly abate; and in few years come to nothing. Increaſe her Money, and her Product will be accordingly. Who knows how far the Natural Product of this Kingdom may extend, when there is Money, that <hi>cauſa ſine qua non,</hi> to improve things to their higheſt Perfection. Many Grounds ly now waſte for want of Stock to imploy them: And the Nerves of Induſtrie are every where ſlackned, by the ſcarcity of this pretious Material, that gives Life and Mo<g ref="char:EOLhyphen"/>tion to every Political Body. Money, or what anſwers it, is the Nouriſh<g ref="char:EOLhyphen"/>ment of Kingdoms and States: Withdraw that Food, and they inſtantly languiſh: Supply it plentifully, and they become full of Health and Vi<g ref="char:EOLhyphen"/>gour. Lands and Hands are the material and efficient Cauſes of Wealth: <hi>Scotland</hi> has enough of both to raiſe her to a flouriſhing Condition, if Mo<g ref="char:EOLhyphen"/>ney were added to enable her Hands, and cultivate her Lands. Add to this, the Improvement of ſo many Arts and Manufactories as never fail to offer themſelves where there is plenty of Money: And theſe in Conjunction with your Natural Product, muſt be perpetual Springs of Wealth. What does
+<pb n="10" facs="tcp:152243:7"/> 
+                     <hi>Holland</hi> perform, without any Natural Product, only by her Manufacto<g ref="char:EOLhyphen"/>ries and Artificial Products. Gold and Silver can only come to <hi>Scotland,</hi> by means of an enlarged and extended Trade: Trade can be only enlarged and extended by a mighty increaſe and Perfection of Natural and Artifici<g ref="char:EOLhyphen"/>al Product: And thoſe Products, as in all other places, ſo here alſo, can only be obtained by great plenty of Money: Which Plenty, this Propoſal undenyably offers. Your Product in great plenty, in great perfection, and at moderat Price, will command a Trade: And all thoſe Advantages are the neceſſary Effects of a vaſt Treaſure of Money, which will naturally make its own way to Trade. That Money, becauſe of its plenty, can ly idle, and its Poſſeſſors ſtarve, is a Poſition till now unheard of. All Experience is a<g ref="char:EOLhyphen"/>gainſt it: For I deny that any one Inſtance can be given, where part of a Nation ſtarved, becauſe the whole was Rich. It has as little Foundation in Reaſon as in Experience. For what Cauſe can be aſſigned, why Plenty ſhould occaſion Poverty? Miſuſe of Plenty may do it: but then the Miſap<g ref="char:EOLhyphen"/>plication, not the Plenty, is in fault. But thoſe Miſapplications are only perſonal follies; they are not chargeable upon Nations, with regard to Trade.</p>
+                  <p>That our propoſed Credit, or Land-money, is only paſſable in <hi>Scotland,</hi> is an Excellencie it poſſeſſes ſuperior to Money of Gold and Silver. The Laws made by all Nations to reſtrain the export of Money, are a plain De<g ref="char:EOLhyphen"/>monſtration that it ought to be kept at Home. And this Benefit is Eſſenti<g ref="char:EOLhyphen"/>al to this Credit, it is in its own Nature Local, and needs not the reſtraint of Laws.</p>
+                  <p>That any can want Employment for this Money, or ſtarve in the Poſſeſ<g ref="char:EOLhyphen"/>ſion of it, I think I have ſufficiently evinced to be impoſſible. Which yet may further appear by Paragraph the 4th. of the Anſwer to the firſt and third Objections.</p>
+               </div>
+            </div>
+            <div type="objections">
+               <head>Eight other OBJECTIONS, to Doctor <hi>Chamberlen's</hi> Propoſal, given in to the Com<g ref="char:EOLhyphen"/>mittee, on <hi>Tueſday</hi> the <hi>4</hi> of <hi>July, 1693.</hi>
+               </head>
+               <div n="1" type="objection">
+                  <head>I.</head>
+                  <p>THe great Medium of Trade and Commerce, ſuppoſed meant by the Propoſal, being to be a kind of Coin, which is to derive its value from an Act of Parliament, and of which the Pieces being to paſs for ſo great a value (as ſome of them for 100, ſome for 50, and the leaſt for 5 <hi>lib.</hi> Ster<g ref="char:EOLhyphen"/>ling) may be a great temptation for ill Men to bend their Wits, and hazard their Lives, to counterfeit the ſame. <hi>Quaeritur,</hi> How the Nation ſhall be ſecured againſt an Evil of ſo dangerous a conſequence?</p>
+               </div>
+               <div n="2" type="objection">
+                  <pb n="11" facs="tcp:152243:7"/>
+                  <head>II.</head>
+                  <p>The Propoſal deſigning ſeveral Millions Sterling, which this Coin is to paſs for, and which cannot be uſeful to the Nation, and Owners thereof, un<g ref="char:EOLhyphen"/>leſs thereby an univerſal Trade through all the World be carried on by them; which cannot be without an additional Stock in real ſpecies of Gold and Silver, to ſerve in Exchange for the Minute uſes of the Nation, whilſt this Coin is to have courſe: And alſo requires Trafficking Merchants, who are acquainted and experienced in a Trade of ſo vaſt an extent, for carry-it on. <hi>Quaeritur,</hi> How the Nation ſhall be ſecured of this additional Stock, (of an hundred thouſand pounds Sterling, or more) which the Maker of the Propoſal offers: and that ſuch Merchants ſhall take up their Reſidence here, and carry on the Trade propoſed, and inſtruct thoſe of this Nation in it.</p>
+               </div>
+               <div n="3" type="objection">
+                  <head>III.</head>
+                  <p>There being little or no uſe of Annualrent, if the Propoſal take effect, thoſe who have Money, and are not acquainted with Trade, will be obliged to carry their Money out of the Kingdom, that they may have Annual<g ref="char:EOLhyphen"/>rent for it elſe where. <hi>Quaeritur,</hi> How the Nation ſhall be ſecured againſt the draining, this way, of the Gold and Silver that ſhall be in the King<g ref="char:EOLhyphen"/>dom, out of it; and nothing left but this Statutory Coin?</p>
+               </div>
+               <div n="4" type="objection">
+                  <head>IV.</head>
+                  <p>The Debts of all the Landed Men will be paid, by the fourty years Pur<g ref="char:EOLhyphen"/>chaſe, given for their Lands. And if the Act of Parliament, propoſed to be made, ſhould happen to be thereafter Reſcinded; the Creditors (who ſhould have nothing but this Statutory Coin at that time in their hands) ſhould come to be ruined.</p>
+               </div>
+               <div n="5" type="objection">
+                  <head>V.</head>
+                  <p>The Propoſal being deſigned for the Good of the Nation; and carrying a manifeſt and extraordinary advantage to the Landed Men (above what they could have projected, or reaſonably deſired) but ſeeming rather pre<g ref="char:EOLhyphen"/>judicial than profitable to the Merchants and Moneyed Men; both in reſpect that the Trade of the Nation, which is now only lodged in their hands, comes to be lodged in the hands of the Landed Men; and that the Mer<g ref="char:EOLhyphen"/>chants and Moneyed Men are to be deprived of the ſecurity, which they for<g ref="char:EOLhyphen"/>merly had, for their Money, upon the Eſtates of their Debitors; and of the Annualrents, whereby many of them lived very plentifully. <hi>Quaeritur;</hi> What method is proper to bring the Loſs and Gain of the Landed and Mo<g ref="char:EOLhyphen"/>neyed Men to a more equal Ballance? And how the Moneyed Men ſhall be ſecured in the payment of their Annualrents, at ſix <hi>per cent,</hi> for five or ſix years, until they be taught the way of Trading with their Money?</p>
+               </div>
+               <div n="6" type="objection">
+                  <head>VI.</head>
+                  <p>The Propoſal being made to the <hi>Engliſh</hi> Parliament, the Members whereof are underſtood to be a Wiſe and Trading People, and the ſame (as it's reported) rejected by them, though calculat (as it would ſeem) rather for the great Wealth and Subſtance of <hi>England,</hi> than for the preſent condition of this Nation. <hi>Quaeritur,</hi> How can it be made appear, that it is reaſonable for this Nation, to imbrace a Propoſal rejected by that
+<pb n="12" facs="tcp:152243:8"/> wiſe People? As alſo, it would be cleared, how a Propoſal commenſured for them, can be agreeable to us.</p>
+               </div>
+               <div n="7" type="objection">
+                  <head>VII.</head>
+                  <p>If Money ſhall be multiplied at the rate of the Propoſal, all Commodi<g ref="char:EOLhyphen"/>ties will riſe in their Prices, and Workmen will exact greater Wages. And it is not to be ſuppoſed, that People getting their Payment in Statutory Coin, will take the ſame Price, as if they were getting payment in Gold or Silver. And the advantage that the Maſters of Manufactories have, in this Nation, above thoſe in <hi>England</hi> is, that the Wages of the Workmen of <hi>Scotland</hi> is much leſs than of thoſe in <hi>England. Quaeritur,</hi> How this pre<g ref="char:EOLhyphen"/>judice can be prevented, and the Nation ſecured againſt the ſame?</p>
+               </div>
+               <div n="8" type="objection">
+                  <head>VIII.</head>
+                  <p>The Coin to be made uſe of, conform to this Propoſal, being to be de<g ref="char:EOLhyphen"/>finit in the Quantity: How ſhall the Nation be made ſecure, that no more be Coined, or made uſe of in the Kingdom, than that preciſe Quantity a<g ref="char:EOLhyphen"/>greed upon?</p>
+               </div>
+            </div>
+            <div type="comparison">
+               <head>A Compariſon, of Money, and Credit, given in to the Committee, on <hi>Tueſday July</hi> 4th. <hi>1693.</hi> and re<g ref="char:EOLhyphen"/>lating to the Objections and Anſwers then given in.</head>
+               <p>MOney is a Common and Secure Pledge, inſtituted to ſupply the De<g ref="char:EOLhyphen"/>fects of Barter: and to be the Meaſure, Medium and Account of Trade. What ever can anſwer thoſe ends, is duely Qualified to be made Mo<g ref="char:EOLhyphen"/>ney, by the Laws of any Nation.</p>
+               <p>Money muſt have theſe Eſſential Qualities, <hi>viz.</hi>
+               </p>
+               <p n="1">1. Value: to make it a Security in Exchange for all ſorts of Goods.</p>
+               <p n="2">2. Different Values: for convenience of ſmaller and greater Payments.</p>
+               <p n="3">3. Stamp of the Government: not to give, but to atteſt, its Value, and to Authorize the Currency of it.</p>
+               <p n="4">4. Durability: to prevent Loſs by wearing out, or eaſily periſhing.</p>
+               <p n="5">5. Portability: for eaſe of Carriage.</p>
+               <p>The Tallies, Bills of Credit, or Land-money, propoſed by Dr. <hi>Cham<g ref="char:EOLhyphen"/>berlen,</hi> will have all theſe Qualities of Money, equally with Money of Gold and Silver in all reſpects, and ſuperior in ſome.</p>
+               <p n="1">1. As to Value: Money of Gold and Silver, exceeds not its Value by Weight, at the moſt: And is very often ſhort of it; either by too great an Allay in Coynage; or by Waſhing, Filing, or Clipping. Whereas every Bill of this Credit will be ſecured by Land of greater worth than it is Coyned for: And is not ſubject to any Allay in Coynage; nor to have its Value diminiſhed by any ſort of fraudulent Arts whatever.</p>
+               <p n="2">2ly, As to different Values: that will be ſettled as ſhall be judged moſt efficacious for the ends of Trade.</p>
+               <pb n="13" facs="tcp:152243:8"/>
+               <p>3ly, Stamp of the Government. 4ly. Durability. 5ly, Portability, are equally provided for, as in Gold and Silver: indeed more, as to Portabi<g ref="char:EOLhyphen"/>lity: for 100 Pound in Credit, will ſcarſe exceed an Ounce of Silver, in Weight, or Bulk.</p>
+               <p>Money is not ſo convenient, as this Credit, in theſe reſpects, <hi>viz.</hi> For dayly uſe in larger Payments; for the Trouble and Loſs of time in Telling and Retelling; the Danger of Clipt and Counterfeit Money; the Trouble of carrying great Sums from Houſe to Houſe; its being ſubject to be tranſ<g ref="char:EOLhyphen"/>ported to other Nations; and to be hoarded by Miſers, who fondly doat upon the Metalls.</p>
+               <p>Money is only a ſecure Pledge, of a known Value, that a man ſhall be repayed in ſome other Commodity, for the Commodity he parts withal: and it ſerves but to ſupply the Interval of time, between the Selling of one Commodity, and the buying of another.</p>
+               <p>Now the Propoſed Tallies can well ſupply that Interval; and are yet a more ſecure Pledge than Money of Gold and Silver: For ten thouſand Pounds in Money of Gold and Silver, is of no greater Value than what it pretends; and is very often of a leſs Value. But ten thouſand Pounds in this Credit, will be ſecured by 22500 Pounds in Land: For to ſo much a<g ref="char:EOLhyphen"/>mounts 150 pound <hi>per Annum,</hi> the payment thereof for 100 years being ſecured by 150 years, tho to be void upon 100 Annual Payments.</p>
+               <p>The Difference between the true Value of Land, and Money, is evident; in that Money is willingly turned into Land; But Land is not turned into money, but through Neceſſity and Conſtraint. All men allow Land a ſuf<g ref="char:EOLhyphen"/>ficient, and the beſt ſecurity for Money: what ſecures muſt then be more eligible than what is ſecured.</p>
+            </div>
+            <div type="answers">
+               <head>ANSWER to the Eight <hi>Objections</hi> given in to the Committee, upon the 4th of <hi>July, 1693.</hi>
+               </head>
+               <div n="1" type="answer">
+                  <head>To the <hi>Firſt.</hi>
+                  </head>
+                  <p>THe Medium of Trade Propoſed by Dr. <hi>Chamberlen,</hi> is a Species of Money, or Bills of Credit, not deriving any value from an Act of Parliament, but having the Authority of a Law to Atteſt, that they have a real Value inſeparably annexed, and adhering to them; and ſecured by a Fund of Land of greater intrinſick Value than ſo much Gold or Silver, as the Credit is to paſs for. And that this will, <hi>de facto,</hi> be the Caſe, the Com<g ref="char:EOLhyphen"/>pariſon of Money and Credit, this day alſo given in to the Committee, plain<g ref="char:EOLhyphen"/>ly makes out. As to the preventing Forgery and Counterfeits; I grant the Propoſal to be worth nothing, if there be not an effectual Proviſion againſt them. But the Method of that, and Managment of the whole, with<g ref="char:EOLhyphen"/>out Diſorder, are Secrets that the Doctor, in Prudence, reſerves to himſelf, until the Nation have Secured to him the Reward of his Service, according to his Printed <hi>Propoſal</hi> given in to the Parliament, the 14th of <hi>June</hi> laſt.</p>
+               </div>
+               <div n="2" type="answer">
+                  <pb n="14" facs="tcp:152243:9"/>
+                  <head>To the <hi>Second.</hi>
+                  </head>
+                  <p>AN univerſal Trade, and through all the World, are very Large and Extenſive Terms: and a far leſs Compaſs will take up ten times a greater Sum than is meant by the Propoſal. I confeſs that Gold and Silver will be always uſeful to ſerve the Minute Neceſſities of Trade; and thoſe Neceſſities will occaſion a double Benefit: They will both preſerve the preſent Money within the Kingdom; and cauſe Returns of more, as the Ballance of Trade. But if in the mean time, 100000 <hi>lib.</hi> be deſired, Secu<g ref="char:EOLhyphen"/>rity ſhall be given to have it brought into the Kingdom upon very reaſo<g ref="char:EOLhyphen"/>nable Terms; in caſe the Propoſal be eſtabliſhed by Law, to the Satisfa<g ref="char:EOLhyphen"/>ction of Dr. <hi>Chamberlen.</hi> The Doctor will alſo cauſe preſent the Nation with ſuch a Scheme of Trade; aſſiſted with ſuch eminent underſtanding and experienced Merchants, as ſhall give a fair and open Proſpect of all the Ad<g ref="char:EOLhyphen"/>vantages, that reſult from a Proportional-Stock, and a well laid Com<g ref="char:EOLhyphen"/>merce.</p>
+               </div>
+               <div n="3" type="answer">
+                  <head>To the <hi>Third.</hi>
+                  </head>
+                  <p>THere will be no neceſſity for any Man to carry his Money to be put to Intereſt out of the Kingdom, in caſe this Propoſal take effect: For, it is before plainly ſhewed, how Moneyed-men may more profitably em<g ref="char:EOLhyphen"/>ploy their Money at Home. The Laws of the Kingdom againſt exporting Money being reinforced; between the fear of them, and the advantages of keeping their Money at Home, the Nation will be in no danger of being drained of their Gold and Silver. Beſides, the great increaſe of Trade, which muſt be the neceſſary Conſequent of this Propoſal, will occaſion a mighty in<g ref="char:EOLhyphen"/>creaſe of Gold and Silver in a very few Years.</p>
+               </div>
+               <div n="4" type="answer">
+                  <head>To the <hi>Fourth.</hi>
+                  </head>
+                  <p>THis Objection ſeems to fear, that the Nobility and Gentry having payed their Debts by this Means, the Act may afterwards come to be reſcinded, to the ruine of their Creditors. But the Honour, Juſtice, and Intereſt of the whole Nation will ſufficiently ſecure all Men, from the fear that a Law made to this end can ever be reſcinded by any deſign or in<g ref="char:EOLhyphen"/>clination of the Nobility and Gentry. For, were they capable of ſo unjuſt and ungenerous thoughts, what need they go ſo far about; and do at twice what may be done at once? One ſingle Act of Parliament to diſcharge all their Debts, will do the whole Work at a Blow. But further, the reſcinding ſuch a Law will be utterly impoſſible: for the Credit is founded upon Securities made by privat Perſons, for valuable Conſiderations, and in vertue of a Law for the eſtabliſhing a National Trade. As well may it be feared, that an Act ſhould paſs to ſuppreſs the preſent Money, and leave it uſeleſs: or to deprive any number of Men of their Legal Inheritance. But further, the reſcinding this Law, would be for the Nation to rob it ſelf: for the Credit being current in all Payments, would preſently diffuſe it ſelf through the whole Body of the People: and the Nobility and Gentry would always be well furniſhed with it, by Rent from their Tennents: beſides the very great loſs they would Suſtain by being deprived of their ſhares in the National Trade; which as founded upon the Credit, muſt immediatly ſink with it. When this is well conſidered; there can be no imagination ſo ſickly to en<g ref="char:EOLhyphen"/>tertain ſo wild and ſo impoſſible a Dream. And yet, if the Parliament think fit (tho I am ſure there can be no need) they may Inſert a Clauſe, that in caſe ſuch Act be reſcinded, each Creditor and Debitor ſhall ſtand in the
+<pb n="15" facs="tcp:152243:9"/> ſame terms and relation to each other, with regard to their Debts and Cre<g ref="char:EOLhyphen"/>dits, and the Legal Obligations to Payment, and Remedies for Recovery, as at the time of making ſuch Act.</p>
+               </div>
+               <div n="5" type="answer">
+                  <head>To the <hi>Fifth.</hi>
+                  </head>
+                  <p>The advantage of this Propoſal is not ſo limited to the Landed Man, but that mediatly, or immediatly its influence and benefit muſt be extended through the whole Nation in general, and more or leſs to every individual. It is a miſtake to ſuppoſe that either Merchants or Money'd men will be prejudiced. It is already ſhewed, how money'd Men may ſufficiently find their Account. As to the Merchants; is it reaſonable for them to oppoſe the flouriſhing of their Countrey, by a large and National Trade; in favour of their preſent little Dealings, that deſerve not the name of Commerce? It ought to ſuffice the Merchants, that not one of them ſhall be excluded from driving whatever Trade he thinks fit. And ſuch of them as have Land or Money, may come in and be actual ſharers: and ſuch others, whoſe skill and fitneſs ſhall recommend them, will no doubt be employed as the Managers of this National Trade; where they may gain without hazard: For the Nobili<g ref="char:EOLhyphen"/>ty and Gentry, whoſe Education fits them more for State and Military Employments, than for Commerce, will unqueſtionably call in the Aſſi<g ref="char:EOLhyphen"/>ſtance of the skilful Merchants. If 1000 forreign Merchants, with each 10000 <hi>lib.</hi> Stock, ſhould petition the Parliament for leave to reſide in this Kingdom, and to follow Merchandize here; is it probable the Go<g ref="char:EOLhyphen"/>vernment would deny to receive them, becauſe the Merchants of little ſtocks ſhould oppoſe it? The publick Intereſt is firſt to be ſought: And no little Ends are to be brought in Competition with the proſperity of a Na<g ref="char:EOLhyphen"/>tion.</p>
+               </div>
+               <div n="6" type="answer">
+                  <head>To the <hi>Sixth.</hi>
+                  </head>
+                  <p>It is not true, that this Propoſal was ever Rejected by the <hi>Engliſh</hi> Parlia<g ref="char:EOLhyphen"/>ment. But if it had; it is not the firſt time the <hi>Engliſh</hi> have miſtaken their Intereſt. They miſt to be Maſters of the <hi>Weſt-Indies,</hi> by neglecting the Propoſer. A wiſe Nation acts by its own Reaſon; and does not implicit<g ref="char:EOLhyphen"/>ly take Rules from others. The Wiſdom of this Nation is, or ought to be the beſt Judge of its own Wants, and whether this propoſal be a proper Cure. I think it a Soleciſm, to ſay, the Propoſal ſeems better Calculate for the great Wealth and Subſtance of <hi>England,</hi> than for the preſent Con<g ref="char:EOLhyphen"/>dition of this Nation. The contrary is true: For the whole have leſs need of the Phyſician.</p>
+               </div>
+               <div n="7" type="answer">
+                  <head>To the Seventh.</head>
+                  <p>The Increaſe of the <hi>Medium</hi> of Trade, will not ſo raiſe the price of Commodities, as this Objection fears. For as Money multiples, ſo do the Uſes and Occaſions for it, and Arts and Manufactures in proportion. No wiſe man throws away his money, or pays too dear, becauſe he is rich. And the poor, who ſubſiſt by their Labour, muſt endanger to ſtarve themſelves and Families, if they ſtand ſtiff upon extravagant prices. Beſides, they cannot all combine to do ſo; and want will ſoon Reduce the Obſtinate. But the inſtance of the <hi>Dutch</hi> is as good as a thouſand Arguments. They
+<pb n="16" facs="tcp:152243:10"/> are vaſtly Rich, both in Coyn, and current Credit; yet neither <hi>Scotland</hi> nor <hi>Ireland</hi> (though bare enough of Money) can produce their Manufa<g ref="char:EOLhyphen"/>ctures cheaper than the <hi>Dutch.</hi>
+                  </p>
+               </div>
+               <div n="8" type="answer">
+                  <head>To the Eighth.</head>
+                  <p>The Security to the Nation, that no Tallies can be iſſued, but what are firſt ſecured by Land, ariſes from the Care and Inſpection of the Truſtees ap<g ref="char:EOLhyphen"/>pointed by Parliament; and from the order and method of management; and the Checks upon each Officer, ſo contrived; as to make it impoſſible for a ſingle Tallie to be Coined, that is not firſt duly ſecured by Land. And the like exactneſs will be uſed in the yearly receiving back the Tallies, and cancelling of them as they come in.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
